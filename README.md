@@ -1,29 +1,27 @@
-# This is a large heading
+# Danielle Stolley
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Houston, in the state of Texas, in the United States of America
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite book (series) are:
+- *Kingkiller Chronicles* by Patrick Rothfuss
+- *Stormlight Archive* by Brandon Sanderson
+- *The Demon Cycle* by Peter V. Brett
 
-Here is `some code` in the middle of a sentence.
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+I typically like to eat the following:
+ 1. Mushroom Sandwiches/Burgers
+ 2. Onion Rings
+ 3. Pizza
+ 4. Breakfast Tacos
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+
+### Contact
+
+The best way to get in touch with me is [on instagram](https://instagram.com/dany_the_ghost/)
 
